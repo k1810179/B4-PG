@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void printMaxAndMin(int* input);
+void printMaxAndMin(int* input); /*aaa*/
 
 int main(void){
     int input[] = {1,2,3};
